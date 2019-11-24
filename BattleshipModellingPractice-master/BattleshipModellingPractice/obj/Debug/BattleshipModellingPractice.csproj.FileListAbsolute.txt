@@ -1,7 +1,0 @@
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe.config
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.pdb
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.csprojAssemblyReference.cache
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.csproj.CoreCompileInputs.cache
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.exe
-C:\Users\EdX\Source\Repos\battleship\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.pdb
